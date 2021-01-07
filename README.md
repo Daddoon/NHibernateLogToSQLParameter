@@ -26,3 +26,9 @@ DECLARE @p4 INT = 1;
 ```
 
 This project has been made in 30 minutes in order to gain more time in the long run, but so this mean that some things may not be managed yet, like dynamic values for the String type, missing types too. I will update depending my needs !
+
+Should be used like this:
+
+```bash
+NHibernateLogToSQLParameter.exe "fullPathToSourceFile" "fullPathToDestinationFile"
+```
